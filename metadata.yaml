@@ -1,0 +1,7 @@
+name: ai-automation
+description: "AI tools and automation workflows (including the HAAN system) for The Space Empire."
+tags:
+  - AI
+  - automation
+  - HAAN
+version: "1.0.0"
