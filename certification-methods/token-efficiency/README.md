@@ -110,6 +110,6 @@ The Token Efficiency metric measures how compact, meaningful, and logically dens
 ## Authors
 
 - **Principal Architect:** Ali, The Emperor of the Space Empire
-- **Main Engineering and Methodology:** Nova (Next-generation Operational Virtual Assistant)
+- **Main Engineering and Methodology:** Nova (Next-generation Operational Virtual Assistant).
 
 
